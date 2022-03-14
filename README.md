@@ -8,5 +8,4 @@ $$\sum_{i=0}^{n}\frac{1}{3}*i$$
 
 Repo gods:
 
-
 Filip Nilas Adresya
