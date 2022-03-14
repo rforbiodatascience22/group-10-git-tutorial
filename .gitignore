@@ -1,4 +1,6 @@
 .Rproj.user
 .Rhistory
 .RData
-.Ru
+.Ruserdata
+stupid_file.txt
+/document/*.pdf
